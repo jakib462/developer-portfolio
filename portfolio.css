@@ -155,3 +155,10 @@ main section{
     text-align: center;
     margin-top: 50px;
 }
+/* footer style section */
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    margin: 130px;
+    padding: 130px 230px;
+}
